@@ -2,7 +2,7 @@
 
 1. Welcome / Roll call of voting members
    - [ ] David Chassin (SLAC)
-   - [ ] Pedram Jahangiri (Amazon)
+   - [x] Pedram Jahangiri (Amazon)
    - [ ] Anthony James (SCE)
    - [x] Allen Le (CEC)
    - [ ] Joseph Chongfuangprinya (Hitachi)
@@ -12,7 +12,7 @@
    
    * A quorum is present (50%+1)
      - [ ] Yes
-     - [ ] No - Status update only
+     - [x] No - Status update only
     
 2. [TSC Action Items](https://github.com/orgs/arras-energy/projects/1)
     1. Dave: creative brief for logo (IN PROGRESS)
