@@ -1,0 +1,37 @@
+# TSC Meeting on May 12, 2025
+
+1. Welcome / Roll call of voting members
+   - [x] David Chassin (SLAC)
+   - [ ] Pedram Jahangiri (Amazon)
+   - [ ] Anthony James (SCE)
+   - [ ] Allen Le (CEC)
+   - [x] Joseph Chongfuangprinya (Hitachi)
+   - [x] Alyona Teyber (LLNL)
+   - [x] Duncan Ragsdale (Independent)
+   - [ ] Frank Tuffner (PNNL)
+   - [x] Miguel Jimenez Aparicio (Sandia)
+  
+   * Non-voting attendess
+   - [ ] Bo Yang (Hitachi)
+   
+   * A quorum is present (50%+1)
+     - [ ] Yes
+     - [x] No - Status update only
+    
+2. Old business
+   * (Dave) Moved to FIDOPower
+   * (Dave) New tools [Optimal Powerflow/Sizing/Placement](https://marimo.io/p/@lfenergy-fidopower/optimal-sizing-placement?show-code=false)
+    
+3. New business
+   * (Dave/Alyona) GIS2GLM converter
+   * (Dave) Special interest group on modeling and simulation presentation
+  
+4. Action Items
+   * Manage member list
+   * Special interest group presentation prep
+
+4. Approval of minutes
+   - [x] Moved, seconded, and approved
+
+5. Adjourn
+   - [x] Moved and seconded, without objection
