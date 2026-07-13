@@ -1,9 +1,9 @@
-# TSC Meeting on 8 June 2026
+# TSC Meeting on 13 July 2026
 
 1. Welcome / Roll call of voting members
-   - [x] David Chassin (Eudoxys)
-   - [ ] Allen Le (CEC)
-   - [ ] Joseph Chongfuangprinya (Hitachi)
+   - [ ] David Chassin (Eudoxys)
+   - [x] Allen Le (CEC)
+   - [x] Joseph Chongfuangprinya (Hitachi)
    - [x] Alyona Teyber (LLNL)
 
     * Non-voting attendess
@@ -12,19 +12,20 @@
       - [ ] Bo Yang (Hitachi)
       - [ ] Duncan Ragsdale (Independent)
       - [ ] Frank Tuffner (PNNL)
-      - [x] Tyler Nam (CEC) [2/3] - voted in
+      - [ ] Tyler Nam (CEC) [2/3] - voted in
    
    A quorum is present (50%+1)
-   - [ ] Yes
-   - [x] No - Status update only
+   - [x] Yes
+   - [ ] No - Status update only
     
 3. Old business
   - (Dave) Moved to FIDOPower (10 pipelines) - in progress
   - Dave is reaching out to Marimo (follow up the no response)
-  - New pipelines from LLNL (Advanced load model) - TSGAM add on for forecasting load (Done), DG is work in progress, WECC calibration with load and DG finished, optimal capacity expansion - in progress 
-    
+  - New pipelines from LLNL (Advanced load model) - TSGAM add on for forecasting load (Done), DG is work in progress, WECC calibration with load and DG - being validated, optimal capacity expansion - in progress for WECC 240 (plan for IEEE PES paper) 
+  - AutoBEM buildings data downloaded (525M buildings at state level + county level via geofencing)
+
 4. New business
-   - AutoBEM buildings data downloaded (525M buildings at state level + county level via geofencing)
+   - 
 
 6. Action Items
   - 
