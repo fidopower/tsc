@@ -1,0 +1,37 @@
+# TSC Meeting on 10 August 2026
+
+1. Welcome / Roll call of voting members
+   - [x] David Chassin (Eudoxys)
+   - [ ] Allen Le (CEC)
+   - [x] Joseph Chongfuangprinya (Hitachi)
+   - [x] Alyona Teyber (LLNL)
+
+    * Non-voting attendess
+      - [ ] Pedram Jahangiri (Amazon)
+      - [ ] Anthony James (SCE)
+      - [ ] Bo Yang (Hitachi)
+      - [ ] Duncan Ragsdale (Independent)
+      - [ ] Frank Tuffner (PNNL)
+      - [ ] Tyler Nam (CEC) [2/3] - voted in
+   
+   A quorum is present (50%+1)
+   - [x] Yes
+   - [ ] No - Status update only
+    
+3. Old business
+  - (Dave) Moved to FIDOPower (10 pipelines) - in progress
+  - Dave is reaching out to Marimo (follow up the no response)
+  - New pipelines from LLNL (Advanced load model), DG is work in progress, WECC calibration with load and DG - being validated, optimal capacity expansion - in progress for WECC 240 (plan for IEEE PES paper) 
+  - AutoBEM buildings data (525M buildings at state level + county level via geofencing) in progress
+
+4. New business
+  - NSF proposal (Dave)
+  - SIG review prep (Alyona/Dave) 
+6. Action Items
+  - 
+
+4. Approval of minutes
+  - Approved
+
+5. Adjourn
+  - Adjourned
